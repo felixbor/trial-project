@@ -8,3 +8,14 @@ header {
   text-align: center;
 
 }
+.result {
+  display: flex;
+  flex-direction: column;
+}
+
+.result button {
+  background-color: rgb(7, 183, 104);
+}
+button:hover{
+  box-shadow: 0 0 10px blue;
+}
