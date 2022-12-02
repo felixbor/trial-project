@@ -14,8 +14,10 @@ header {
 }
 
 .result button {
-  background-color: rgb(7, 183, 104);
+  background-color: rgb(117, 123, 121);
+  font-size: 1.5em;
 }
 button:hover{
   box-shadow: 0 0 10px blue;
+  
 }
